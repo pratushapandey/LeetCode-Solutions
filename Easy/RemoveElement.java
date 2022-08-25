@@ -1,5 +1,3 @@
-import java.lang.*;
-import java.util.*;
 
 class Solution{
     public int removeElements(int[]nums,int val){
