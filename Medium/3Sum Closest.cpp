@@ -26,7 +26,7 @@ public:
             
             if(sum > target) k--;
             
-            else j++
+            else j++;
         }
     }        
     
