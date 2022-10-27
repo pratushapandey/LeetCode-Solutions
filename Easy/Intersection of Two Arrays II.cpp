@@ -15,7 +15,7 @@ public:
                 j++;
             }
             else if(nums1[i] < nums2[j]){
-                i++;
+                i++
             }
             else{
                 ans.push_back(nums1[i]);
