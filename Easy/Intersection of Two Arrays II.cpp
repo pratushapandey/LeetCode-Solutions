@@ -20,7 +20,7 @@ public:
             else{
                 ans.push_back(nums1[i]);
                 i++;
-                j++;
+                j++
             }
         }
         return ans;
